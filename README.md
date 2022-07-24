@@ -76,14 +76,8 @@ pip install requests
 ```
 ### Single `Command`-
 ```
- pkg update -y && pkg upgrade && pkg install python -y && pkg install python2 -y && pip install aiohttp && pip install requests && git clone https://github.com/Aru-Ofc-git/CIRCLE_TOOLS.git && cd CIRCLE_TOOLS && python circle.py
+ pkg update -y && pkg upgrade && pkg install python -y && pkg install python2 -y && pip install requests && git clone https://github.com/Aru-Ofc-git/CIRCLE_TOOLS.git && cd CIRCLE_TOOLS && python circle.py
 ```
-
-
-<br>
-<b>Note:</b> We Can Change Username and Password Every Time.
-<br>
-<br>
 
 
 ### Screenshots
@@ -92,7 +86,21 @@ pip install requests
 </p>
 <br>
 
-### Find Me on :
+
+# About Premium Tools
+
+### Auto Shout 
+
+<p>Sometimes you may need to do automatic <b>shout</b> one after the other. You can do that from our tools.</p>
+<br>
+<br>
+<h3> Check who people not in your CIRCLE</h3>
+<p>If you have <b>joined </b>someone in <b>Robi Circle </b>but have not joined you, you can find their profile and <b>xjoin</b> or <b>block</b> them.</p>
+<br>
+<br>
+<h3>Check who people not in your CIRCLE</h3>
+<p>You can find people who have <b>joined </b>you in<b> Robi Circle <b/>but you haven't And you can <b>join or block </b>if you want</p>
+<h3> Find Me on :</h3>
 <p align="left">
   <a href="https://github.com/Aru-Ofc-Git" target="_blank"><img src="https://img.shields.io/badge/Github-It'z--ARU-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.facebook.com/Aru.Ofc" target="_blank"><img src="https://img.shields.io/badge/Facebook-Aru--আরু-red?style=for-the-badge&logo=facebook"></a>
