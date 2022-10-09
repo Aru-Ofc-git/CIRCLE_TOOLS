@@ -55,7 +55,9 @@ pip install circlerobi
 ```
 pip install requests
 ```
-
+```
+pip install lolcat
+```
 
 ### Install ``CIRCLE_TOOLS``
 
