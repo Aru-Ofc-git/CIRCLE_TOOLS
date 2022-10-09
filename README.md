@@ -71,7 +71,7 @@ pip install lolcat
  cd CIRCLE_TOOLS
 ```
 ```
- bsh circle.sh
+ bash circle.sh
 ```
 ### Single `Command`-
 ```
