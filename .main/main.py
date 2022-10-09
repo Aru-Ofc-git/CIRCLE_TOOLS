@@ -1,3 +1,7 @@
+#Codded By Ariful Islam Arman (ARU)
+#writen With python
+
+
 import os,time,json,sys,random
 # color
 #Color Value 
