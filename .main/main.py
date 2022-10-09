@@ -468,4 +468,4 @@ def main():
 try:
 	main()
 except:
-	printchar(redBold+'     Found a error')
+	printchar(redBold+'     Found a error',0.005)
