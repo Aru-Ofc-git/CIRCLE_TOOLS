@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-ARU-green?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-green?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Shell--Go--Python-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-green?style=flat-square">
 </p>
 
 
