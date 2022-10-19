@@ -45,7 +45,7 @@ option='''
     [7] Following Clean
     [8] Follower Clean
     [9] Block Clean
-    [10] CIRCLE PIN [Not available For Harassments Issue]
+    [10] CIRCLE PIN [Unavailable For Harassments Issue]
     [11] Clean Those People who not Joined  your CIRCLE
     [12] Join Those People you not joined his/her CIRCLE.
     [13] Change Nickname
@@ -57,7 +57,7 @@ option='''
     [19] Send Unlimited CCOM
     [20] Shout
     [21] Unlimited Shout
-    [22] Unlimited Join And xjoin [Not available For Harassments Issue]
+    [22] Unlimited Join And xjoin [Unavailable For Harassments Issue]
     [23] Chek User Update
     [24] Get Latest Update in Apps
     [25] Reactive CIRCLE ID
