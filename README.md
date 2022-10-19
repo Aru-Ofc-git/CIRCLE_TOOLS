@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1.0-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/Aru-Ofc-git/CIRCLE_TOOLS?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Aru-Ofc-git/CIRCLE_TOOLS.git?style=for-the-badge">
 </p>
 
 <p align="center">
