@@ -1,9 +1,11 @@
 <!-- CIRCLE_TOOLS -->
 <!-- CODED BY ARU -->
-
+<div align='center' sytle='color:red'><h1>ROBI</h1></div>
 <p align="center">
   <img src=".images/Logo.png">
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1.0-blue?style=for-the-badge">
