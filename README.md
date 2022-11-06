@@ -21,25 +21,13 @@
 > <h2><p align='center'><b>DISCLAIMER:</b></p></h2>
 > <p><i>This script is create only for enhancing <b>Robi and Airtel Circle</b> experience and personally for keeping everything in practice with a realtime project.</i></p>
 <br><br>
-> ## DESCRIPTION
-> **It is one of the tools of `ROBI CIRCLE`. It is developed with the programming language `Python`. It can be used only by `Bangladeshi` citizens.**
-> - ### Number To ID or ID To Number
-> **Many times `ROBI CIRCLE` user needs `Number` from `ROBI CIRCLE` ID or `ROBI CIRCLE` ID from `Number`. You can get `Number from `ROBI CIRCLE ID` or `ROBI CIRCLE ID` from `Number` by using ``Number To ID or ID To Number`` method.**
->  
 
-
-<br>
-<h2> Notes: </h2>
-⚙ Our Tool is Absolutely Free, Don't Sell or Buy Anyone
-
-<br>
-<br>
 
 
 ## Features
 
-- ID TO NUMBER
-- NUMBER TO ID
+- <a href='#number-to-id-or-id-to-number'>ID TO NUMBER</a>
+- <a href='#number-to-id-or-id-to-number'> NUMBER TO ID </a>
 - API GENERATE WITH OTP
 - API TO CIIRCLE ACCOUNT INFO
 - GET FOLLOWING LIST
@@ -65,7 +53,28 @@
 - STOP CIRCLE ID
 
 
-<div align='center'><h1> How to use </h1></div>
+
+
+
+> ## DESCRIPTION
+> **It is one of the tools of `ROBI CIRCLE`. It is developed with the programming language `Python`. It can be used only by `Bangladeshi` citizens.**
+> - ### Number To ID or ID To Number
+> **Many times `ROBI CIRCLE` user needs `Number` from `ROBI CIRCLE` ID or `ROBI CIRCLE` ID from `Number`. You can get `Number from `ROBI CIRCLE ID` or `ROBI CIRCLE ID` from `Number` by using ``Number To ID or ID To Number`` method.**
+>  
+
+
+<br>
+<h2> Notes: </h2>
+⚙ Our Tool is Absolutely Free, Don't Sell or Buy Anyone
+
+<br>
+<br>
+
+
+
+
+
+<div align='center'><h1> USE </h1></div>
 
 ### Requried Pkg and Liberies
 - Update your `Pkg` -
