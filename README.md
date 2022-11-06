@@ -22,7 +22,10 @@
 > <p><i>This script is create only for enhancing <b>Robi and Airtel Circle</b> experience and personally for keeping everything in practice with a realtime project.</i></p>
 <br><br>
 > ## DESCRIPTION
-> ****
+> **It is one of the tools of `ROBI CIRCLE`. It is developed with the programming language `Python`. It can be used only by `Bangladeshi` citizens.**
+> - ### Number To ID or ID To Number
+> **Many times `ROBI CIRCLE` user needs `Number` from `ROBI CIRCLE` ID or `ROBI CIRCLE` ID from `Number`. You can get `Number from `ROBI CIRCLE ID` or `ROBI CIRCLE ID` from `Number` by using ``Number To ID or ID To Number`` method.**
+>  
 
 
 <br>
