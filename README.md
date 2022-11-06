@@ -28,7 +28,7 @@
 
 - <a href='#number-to-id-or-id-to-number'>ID TO NUMBER</a>
 - <a href='#number-to-id-or-id-to-number'> NUMBER TO ID </a>
-- API GENERATE WITH OTP
+- <a href='#get-api-with-otp'> API GENERATE WITH OTP </a>
 - API TO CIIRCLE ACCOUNT INFO
 - GET FOLLOWING LIST
 - GET BLOCK LIST
@@ -60,7 +60,8 @@
 > **It is one of the tools of `ROBI CIRCLE`. It is developed with the programming language `Python`. It can be used only by `Bangladeshi` citizens.**
 > - ### Number To ID or ID To Number
 > **Many times `ROBI CIRCLE` user needs `Number` from `ROBI CIRCLE` ID or `ROBI CIRCLE` ID from `Number`. You can get `Number from `ROBI CIRCLE ID` or `ROBI CIRCLE ID` from `Number` by using ``Number To ID or ID To Number`` method.**
->  
+> - ### Get API with OTP
+> **Sometimes `Robi Circle` ID API may be required.You can get API very easily through `Get API with OTP` method.**
 
 
 <br>
