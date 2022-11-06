@@ -29,7 +29,7 @@
 - <a href='#number-to-id-or-id-to-number'>ID TO NUMBER</a>
 - <a href='#number-to-id-or-id-to-number'> NUMBER TO ID </a>
 - <a href='#get-api-with-otp'> API GENERATE WITH OTP </a>
-- API TO CIIRCLE ACCOUNT INFO
+- <a href='#api-to-id'> TO CIIRCLE ACCOUNT INFO </a>
 - GET FOLLOWING LIST
 - GET BLOCK LIST
 - GET BLOCK LIST
@@ -62,6 +62,8 @@
 > **Many times `ROBI CIRCLE` user needs `Number` from `ROBI CIRCLE` ID or `ROBI CIRCLE` ID from `Number`. You can get `Number from `ROBI CIRCLE ID` or `ROBI CIRCLE ID` from `Number` by using ``Number To ID or ID To Number`` method.**
 > - ### Get API with OTP
 > **Sometimes `Robi Circle` ID API may be required.You can get API very easily through `Get API with OTP` method.**
+> - ## API to ID
+> **You can get `Robi Circle` ID info from API using `API to ID` method.**
 
 
 <br>
