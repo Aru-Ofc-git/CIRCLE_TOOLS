@@ -119,12 +119,12 @@ pip install lolcat
  git clone https://github.com/Aru-Ofc-git/CIRCLE_TOOLS.git
 ```
 
-- Change to cloned directory and run `circle.sh` -
+- Change to cloned directory and run `circle.py` -
 ```
  cd CIRCLE_TOOLS
 ```
 ```
- bash circle.sh
+ python circle.py
 ```
 ### Single `Command`-
 ```
