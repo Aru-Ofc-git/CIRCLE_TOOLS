@@ -43,9 +43,9 @@ def banner_win():
 {a}	██║  ██║  {r}  ██║  ██║ {u}   ╚██████╔╝
 {a}	╚═╝  ╚═╝  {r}  ╚═╝  ╚═╝ {u}    ╚═════╝ '''
     textInfo = random.choice(colorArr)+'''
-	╔═══════════════════════════════╗
-	║	      CIRCLE TOOLS          ║
-	║	      AUTHOR : ARU          ║
+    	╔═══════════════════════════════╗
+	║	   CIRCLE TOOLS    	║
+	║	   AUTHOR : ARU     	║
 	╚═══════════════════════════════╝'''
     print(logo)
     print(textInfo)
